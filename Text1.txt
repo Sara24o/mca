@@ -1,2 +1,6 @@
  I am Mcc student
+<<<<<<< HEAD
  I am in A branch 
+=======
+ I am in B branch 
+>>>>>>> B
